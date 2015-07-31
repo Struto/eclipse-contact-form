@@ -10,7 +10,7 @@
     <div class="contact-form">
 
         <!-- Add your site or application content here -->
-        <h2 class="form">Enquiry Form</h2>
+        <!-- <h2 class="form">Enquiry Form</h2> -->
         
         <!--[if lte IE 8]>
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
