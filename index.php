@@ -38,7 +38,7 @@
             font-size: 14px;
         }
 
-        .contact-form {  border: 1px solid blue;
+        .contact-form { 
             display: block;
             width: 300px;
         }
