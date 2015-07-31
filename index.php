@@ -37,6 +37,10 @@
             font-size: 14px;
         }
 
+        html, body { 
+            height: 100%; 
+        }
+
         .contact-form { 
             display: block;
             width: 300px;
