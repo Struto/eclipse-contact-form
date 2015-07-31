@@ -33,7 +33,6 @@
 
         body{
             color: #6e6e6e;
-            background: rgba(0, 137, 208, 0.1);
             font-family: Helvetica,Arial,FreeSans,sans-serif;
             font-size: 14px;
         }
